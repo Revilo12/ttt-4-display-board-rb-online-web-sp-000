@@ -8,4 +8,9 @@ def row(row_array)
 end
 
 def display_board(board)
-  row(board[])
+  puts row(board[0..2])
+  puts LINE
+  puts row(board[3..6])
+  puts LINE
+  puts row(board[7..9])
+end
