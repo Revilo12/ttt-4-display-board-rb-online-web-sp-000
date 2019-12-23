@@ -12,5 +12,5 @@ def display_board(board)
   puts LINE
   puts rowPrint(board[3,3])
   puts LINE
-  puts rowPrint(board[7,3])
+  puts rowPrint(board[6,3])
 end
