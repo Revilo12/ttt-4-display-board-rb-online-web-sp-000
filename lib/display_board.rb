@@ -1,6 +1,6 @@
 # Define display_board that accepts a board and prints
 # out the current state.
-LINE = "-----------"
+LINE "-----------"
 
 #Prints out one of the rows filled with the appropriate things
 def row(row_array)
